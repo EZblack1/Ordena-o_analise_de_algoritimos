@@ -1,0 +1,27 @@
+# Java compiled files
+*.class
+bin/
+
+# Output files from sorting tests
+*.txt
+!README.md
+
+# CSV result files (keep only the main results)
+resultados_*.csv
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.tmp
+*.swp
+
+# Log files
+*.log
